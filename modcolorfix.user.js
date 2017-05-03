@@ -1,9 +1,8 @@
 // ==UserScript==
-// @name        Feedback Instantly, Rapidly, Effortlessly
-// @namespace   https://github.com/Charcoal-SE/
-// @author      Cerbrus
-// @version     1.0.1
-// @updateURL   https://raw.githubusercontent.com/Charcoal-SE/Userscripts/master/fire/fire.meta.js
+// @name        ModColorFix
+// @author      CalvT
+// @version     1.0
+// @downloadURL   https://raw.githubusercontent.com/CalvT/ModColorFix/master/modcolorfix.user.js
 // @match       *://chat.stackexchange.com/rooms/*
 // @match       *://chat.stackoverflow.com/rooms/*
 // @match       *://chat.meta.stackexchange.com/*
